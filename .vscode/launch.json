@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Micro",
+            "request": "launch",
+            "mainClass": "Micro",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "Thirteen",
+            "request": "launch",
+            "mainClass": "Thirteen",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "Twelve",
+            "request": "launch",
+            "mainClass": "Twelve",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "Eleven",
+            "request": "launch",
+            "mainClass": "Eleven",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "Seventeen",
+            "request": "launch",
+            "mainClass": "Seventeen",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "Sixteen",
+            "request": "launch",
+            "mainClass": "Sixteen",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "Fourteen",
+            "request": "launch",
+            "mainClass": "Fourteen",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "Ten",
+            "request": "launch",
+            "mainClass": "Ten",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Eighteen",
+            "request": "launch",
+            "mainClass": "Eighteen",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "Fifteen",
+            "request": "launch",
+            "mainClass": "Fifteen",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "Five",
+            "request": "launch",
+            "mainClass": "Five",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "Four",
+            "request": "launch",
+            "mainClass": "Four",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "Nineteen",
+            "request": "launch",
+            "mainClass": "Nineteen",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "One",
+            "request": "launch",
+            "mainClass": "One",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "Six",
+            "request": "launch",
+            "mainClass": "Six",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "Three",
+            "request": "launch",
+            "mainClass": "Three",
+            "projectName": "Assignment !_685d7ff"
+        },
+        {
+            "type": "java",
+            "name": "Two",
+            "request": "launch",
+            "mainClass": "Two",
+            "projectName": "Assignment !_685d7ff"
+        }
+    ]
+}
