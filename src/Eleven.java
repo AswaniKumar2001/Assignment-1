@@ -1,7 +1,7 @@
 
 public class Eleven {
     public static void main(String[] args){
-        String x = "Sha ruk 12 @x";
+        String x = "Asw In @EB";
         int l=0, d=0, s=0, o=0;
 
         for (int i=0;i<x.length();i++){
